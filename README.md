@@ -1,2 +1,1 @@
-# countDown
-counting down clock
+# Counting Down Clock
