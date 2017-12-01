@@ -3,7 +3,7 @@ $(document).ready(function() {
     // var workDuration = 57 * 24 * 36000; //25 * 600;
 
     var date1 = new Date();
-    var date2 = new Date('2018-1-27');
+    var date2 = new Date('Jan 27, 2018');
     var workDuration = (date2.getTime() - date1.getTime()) / (24 * 60 * 60 * 1000) * 24 * 36000;
     
     var restDuration = 5 * 600;
